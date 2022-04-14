@@ -1,5 +1,17 @@
 .footer {
-  width: 90%;
-  margin: 92px auto 24px;
-  border: 1px solid white;
+  margin: 0;
+  padding: 64px 0 24px 16px;
+
+}
+
+@media screen and (min-width: 740px) {
+  .footer {
+      padding: 88px 24px 24px;
+  }
+}
+
+@media screen and (min-width: 990px) {
+  .footer {
+      padding: 92px 48px 24px;
+  }
 }
