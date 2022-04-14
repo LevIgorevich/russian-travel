@@ -1,40 +1,40 @@
 .place__paragraph {
-    color: #fff;
-    margin: 0;
-    padding: 32px 16px 0;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 26px;
+  color: #fff;
+  margin: 0;
+  padding: 32px 16px 0;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
 }
 
 .place__paragraph:last-child {
-    padding-top: 25px;
+  padding-top: 25px;
 }
 
 @media screen and (min-width: 740px) {
-    .place__paragraph {
-        padding: 0 0 25px;
-    }
-        
-    .place__paragraph:last-child {
-        padding: 0;
-    }
+  .place__paragraph {
+    padding: 0 0 25px;
+  }
+
+  .place__paragraph:last-child {
+    padding: 0;
+  }
 }
 
 @media screen and (min-width: 990px) {
-    .place__paragraph {
-        font-size: 18px;
-        line-height: 29px;
-        padding: 0 0 27px;
-    }
-    
-    .place__paragraph:last-child {
-        padding: 0;
-    }
+  .place__paragraph {
+    font-size: 18px;
+    line-height: 29px;
+    padding: 0 0 27px;
+  }
+
+  .place__paragraph:last-child {
+    padding: 0;
+  }
 }
 
 @media screen and (min-width: 1250px) {
-    .place__paragraph {
-        padding: 0 0 26px;
-    }
+  .place__paragraph {
+    padding: 0 0 26px;
+  }
 }

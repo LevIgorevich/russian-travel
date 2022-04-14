@@ -5,17 +5,17 @@
 
 @media screen and (min-width: 740px) {
   .cover {
-      padding: 90px 0 0;
+    padding: 90px 0 0;
   }
 }
 
 @media screen and (min-width: 990px) {
   .cover {
-      padding: 92px 0 0;
+    padding: 92px 0 0;
   }
 }
 @media screen and (min-width: 1250px) {
   .cover {
-      padding: 92px 48px 0;
+    padding: 92px 48px 0;
   }
 }
