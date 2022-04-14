@@ -28,4 +28,4 @@
 
 **GitHub Pages**
 
-- [Ссылка на проект GitHub](https://levigorevich.github.io/russian-travel/index.html)
+- [Ссылка на проект GitHub](https://levigorevich.github.io/russian-travel)
